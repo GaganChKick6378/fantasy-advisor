@@ -1,0 +1,4 @@
+data
+.env
+advisor/__pycache__
+venv

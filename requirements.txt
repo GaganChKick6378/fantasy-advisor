@@ -1,0 +1,7 @@
+exa-py
+openai
+faiss-cpu
+numpy
+python-dotenv
+langsmith
+uuid
